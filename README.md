@@ -17,6 +17,7 @@
 - Minecraft PE version: 0.14.x
 - Supported protocols: 41, 42, 43, 44, 45, 46, 60, 70
 - API: 2.0.0
+- BETA BRANCH IS ONLY FOR DEVELOPERS! IT'S NOT STABLE!
 
 ## Features
 - Method "getPing()" returns player's ping
